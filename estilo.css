@@ -17,9 +17,15 @@ color:blue;
 
 }
 
-
-
 H1{
+   width: 50%; 
+   display: inline-block;
+   padding:10px; 
+ 
+border-radius:0.5em;
+ background: linear-gradient(70deg, green, white);
+}
+H2{
    width: 50%; 
    display: inline-block;
    padding:10px; 
