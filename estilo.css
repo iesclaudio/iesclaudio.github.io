@@ -104,9 +104,3 @@ border-radius:0.5em;
    75% {color: #f20;} 
   100% {color: #8f0;} 
 }
-
-
-.bt1{background-color:red;color:white;}
-.bt2{background-color:white;border:2px solid red;color:red;}
-.bt3{background-color:blue;color:white;width:120px;padding:6px;border-radius:5px;}
-.bt4{background-color:green;color:white;font-size:1.2em;padding:12px;padding:6px;border-radius:50%;}
