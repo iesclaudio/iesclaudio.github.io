@@ -74,7 +74,7 @@ border-radius:0.5em;
 div.c{
     display:inline-block;
   text-align:center;
- background-color:blue;
+ background-color:steelblue;
 
  color:white;
  padding:1em; 
@@ -99,7 +99,6 @@ border-radius:0.5em;
 @keyframes hola{
     0% {color: #00f;} 
    25% {color: #f80;} 
- 
   50% {color: #0ff;} 
    75% {color: #f20;} 
   100% {color: #8f0;} 
