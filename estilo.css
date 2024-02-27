@@ -33,32 +33,25 @@ H2{
    padding:10px; 
  
 border-radius:0.5em;
- background: linear-gradient(70deg, lime, white);
- 
- 
-
-animation-name: hola;
-  
+background: linear-gradient(70deg, lime, white);
+animation-name: hola;  
 animation-duration: 4s;
-  animation-iteration-count: infinite;
- 
+animation-iteration-count: infinite;
 }
 
 
 
 nav{
-    display:inline-block;
-  text-align:center;
-   
- padding:0.5em; width:50%;
+display:inline-block;
+text-align:center; 
+padding:0.5em; width:50%;
     
 }
 div.a{
-    display:inline-block;
-  text-align:center;
- background-color:orange;
- padding:1em;
- 
+display:inline-block;
+text-align:center;
+background-color:orange;
+padding:1em;
 padding-top:0.5em; 
 border-radius:0.5em;
 }
@@ -66,7 +59,6 @@ div.b{
     display:inline-block;
   text-align:center;
  background-color:yellow;
- 
 padding:1em; 
 padding-top:0.5em; 
 border-radius:0.5em;
@@ -75,23 +67,29 @@ div.c{
     display:inline-block;
   text-align:center;
  background-color:steelblue;
-
  color:white;
  padding:1em; 
 padding-top:0.5em; 
 border-radius:0.5em;
 }
 div.d{
-    display:inline-block;
-  text-align:center;
- 
+display:inline-block;
+text-align:center;
 background-color:red;
- color:white;
- padding:1em; 
+color:white;
+padding:1em; 
 padding-top:0.5em; 
 border-radius:0.5em;
 }
-
+div.3{
+display:inline-block;
+text-align:center;
+background-color:#88F60A;
+color:white;
+padding:1em; 
+padding-top:0.5em; 
+border-radius:0.5em;
+}
 
 
 
