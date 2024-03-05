@@ -90,7 +90,15 @@ padding:1em;
 padding-top:0.5em; 
 border-radius:0.5em;
 }
-
+div.f{
+display:inline-block;
+text-align:center;
+background-color:#88A60A;
+color:white;
+padding:1em; 
+padding-top:0.5em; 
+border-radius:0.5em;
+}
 
 
 
